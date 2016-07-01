@@ -5,4 +5,4 @@ Templates with guides and colored columns for the default desktop grid of
 
 Includes PSD and aphoto files for Photoshop and Affinity Designer, respectively.
 
-:cheers:
+:beers:
